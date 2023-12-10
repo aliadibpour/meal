@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "username": "ali",
+      "password": "12",
+      "id": 2
+    },
+    {
+      "username": "reza.ins",
+      "password": "colombia1234",
+      "id": 3
+    },
+    {
+      "username": "mahsa.amini",
+      "password": "woman-life-freedom",
+      "id": 4
+    },
+    {
+      "username": "amir",
+      "password": "ww.er.nol",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
