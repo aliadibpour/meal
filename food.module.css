@@ -1,0 +1,17 @@
+.food {
+    background-color: rgb(252, 252, 252);
+    border-radius: 10px;
+    width: 30rem;margin-left:27rem;margin-top:3rem;margin-bottom:2rem;display:inline-block;
+}
+.food img {
+    border-radius: 10px;
+    margin-bottom: .5rem;
+}
+
+@media screen and (max-width: 480px) {
+    .food{
+        width: 22rem;
+        position: relative;
+        right: 25.5rem;
+    }
+}

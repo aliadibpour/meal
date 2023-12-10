@@ -1,0 +1,13 @@
+@media screen and (max-width: 480px) {
+    .nav input{
+        scale: 1;
+        position: relative;
+        right: 3rem;
+    }
+    .nav a {
+        scale: .8;
+        position: relative;
+        left: 18rem;
+        bottom: 2.4rem;
+    }
+}
